@@ -1,3 +1,5 @@
 # Ubuntu Miner
 - Ubuntu Server 20.04
-- t-rex miner
+- T-rex Miner (configured for 3x RTX 3070)
+
+Start miner with `start`
