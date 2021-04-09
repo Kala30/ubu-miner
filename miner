@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/cyun/miner/t-rex
+./ETH-hiveon.sh

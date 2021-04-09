@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./set_oc
+
+screen -S miner -dm ./miner
