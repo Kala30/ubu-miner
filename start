@@ -2,4 +2,4 @@
 
 ./set_oc
 
-screen -S miner -dm ./miner
+sudo su cyun -c "screen -S miner -dm ./miner"
