@@ -3,6 +3,10 @@
 - T-rex Miner (configured for 3x RTX 3070)
 - Tested on AMD Ryzen 5 1600
 
+## Setup
+Enable overclocking:
+`nvidia-xconfig -a --cool-bits=28 --allow-empty-initial-configuration`
+
 Start miner with `./start`
 
 ## GRUB
