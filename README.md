@@ -5,6 +5,7 @@
 
 ## Setup
 Enable overclocking:
+`nvidia-xconfig -a --enable-all-gpus`
 `nvidia-xconfig -a --cool-bits=28 --allow-empty-initial-configuration`
 
 Start miner with `./start`
